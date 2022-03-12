@@ -20,6 +20,6 @@ A partir de este codigo y del diagrama UML que se proporciona crear las clases n
     -Al salir del campo o "morderse" el juego se ha de parar y esperar a pulsar una tecla para reiniciarse.
  
 El objetivo principal de la práctia es que la clase Snake poseea una estructura de datos dinámica de las que se facilitan en los apuntes (Pilas,
-Listas o Colas) y se modifique para poder cumplir con el enunciado. ** NO ES POSIBLE USAR ESTRUCTURAS DINÁMICAS DE JAVA**
+Listas o Colas) y se modifique para poder cumplir con el enunciado. **NO ES POSIBLE USAR ESTRUCTURAS DINÁMICAS DE JAVA**
 
 ![image](https://github.com/pass1enator/DAWSnakeTemplate/blob/master/src/main/resources/uml.png?raw=true)
