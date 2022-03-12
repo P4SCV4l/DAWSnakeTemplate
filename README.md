@@ -22,4 +22,4 @@ A partir de este codigo y del diagrama UML que se proporciona crear las clases n
 El objetivo principal de la práctia es que la clase Snake poseea una estructura de datos dinámica de las que se facilitan en los apuntes (Pilas,
 Listas o Colas) y se modifique para poder cumplir con el enunciado. ** NO ES POSIBLE USAR ESTRUCTURAS DINÁMICAS DE JAVA**
 
-![image](https://raw.githubusercontent.com/pass1enator/DAWDomoticaTemplate/master/captura.png)
+![image](https://raw.githubusercontent.com/pass1enator/DAWSnakeTemplate/blob/master/src/main/resources/uml.png)
