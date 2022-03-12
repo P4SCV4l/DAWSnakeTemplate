@@ -3,9 +3,12 @@
 
 En esta práctica se modifica alguna de las estructuras dinámicas de datos vistas en clase para implementar el juego de la serpiente.
 
+   
 ## Enunciado
 
 El juego consiste en mover una serpiente por un tablero de celdas, de forma aleatoria aparece comida en el tablero. La serpiente al pasar por encima se "come" la comida, aumenta en uno la longitud de su longitud e incrementa en uno su puntuación.
+
+![image](https://github.com/pass1enator/DAWSnakeTemplate/blob/master/src/main/resources/resuelto.png?raw=true)
 
 Se proporciona al alumno/a la estructura básica del proyecto, en el que se proporcionan clase auxiliares como Size, Coordenada o Direction, otras como Game y Snake, este código simplemente mueve un cuadrado por el tablero sin hacer ninguna comprobación.
 
